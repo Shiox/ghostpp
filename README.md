@@ -1,0 +1,4 @@
+ghostpp
+=======
+
+Ghost++ Hosting Bot
